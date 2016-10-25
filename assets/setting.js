@@ -5,7 +5,7 @@ var Page = {
     subHeading: "Ready for <strong>Relaxation</strong>?",
     mainHeading: "Just give us <b>your time.</b> We'll take care of <b>the rest</b>",
     CTA: "<i class='fa fa-phone'></i> Call us right now!",
-    brief: "Chúng tôi nhận ra rằng bạn đã có một website tuyệt vời, <br>chỉ cần thêm 1 chút bổ sung, bạn sẽ thấy hiệu quả marketing rõ rệt.",
+    brief: "AAA Spa & Massage Saigon<br>Come to enjoy and ready for your nightlife",
 
     // ============= VARS ==============
     url : "http://www.digitalife.top/", //-- co slash cuoi /
@@ -13,7 +13,7 @@ var Page = {
     longkeyWords : ["mở kênh online nhanh chóng", "thu hút khách hàng online"],
     facebookAppId : "303370230021409", //-- your appID
     googleAnalyticId : "UA-82197343-2", //-- your id
-    formId: "https://docs.google.com/forms/d/e/1FAIpQLScjBXL-M0eRB0qhX1xSV5sWWAwsXbNqtjAGm3aq0-l5EZAisg/viewform?embedded=true",
+    formId: "https://goo.gl/forms/m1l1NXc5wBAn2M0m1",
 }
 
 var Social = {
